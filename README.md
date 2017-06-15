@@ -33,3 +33,9 @@ https%3A%2F%2Fraw.githubusercontent.com%2Fcemvarol%2FEUVNet%2Fmaster%2Ftemp2.jso
 
 
 https://raw.githubusercontent.com/cemvarol/VnetTemplate/master/Vnet01.json
+
+
+
+https://azureinfohub.azurewebsites.net/
+https://azure.microsoft.com/en-gb/blog/
+https://azure.microsoft.com/en-gb/updates/
